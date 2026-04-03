@@ -26,5 +26,5 @@ Allow: /tiramisu.html
 Allow: /contact.html
 
 # Указываем расположение Sitemap
-Sitemap: https://coffeedoo.ru/sitemap.xml
+Sitemap: https://coffeedoo.ru/sitemap/sitemap.xml
 
